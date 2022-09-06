@@ -7,3 +7,23 @@
     color: white;
     font-weight: bold;
 }
+
+.cetagori-img {
+    height: 100px;
+    width: 100px;
+}
+
+#categori-watch {
+    background-color: #FFA500;
+    border-radius: 10px;
+}
+
+#categori-bag {
+    background-color: #DA70D6;
+    border-radius: 10px;
+}
+
+#categori-shoes {
+    background-color: #0000FF;
+    border-radius: 10px;
+}
